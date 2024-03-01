@@ -1,7 +1,16 @@
 ol li{
-border: 1px solid black;
-border-radius: 5px;
-margin: 10px;
-padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.first-child{
+    background-color: aqua;
+    text-decoration-color: bisque;
+}
 
+.last-child{
+    background-color: orange;
+    text-decoration-color: aquamarine;
 }
