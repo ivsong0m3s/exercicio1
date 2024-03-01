@@ -1,0 +1,29 @@
+.backquest4{
+    background-image: url(https://scontent-for1-1.xx.fbcdn.net/v/t39.30808-6/428642159_831037989067454_6921036194263577457_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeF2UjFyX4tM1VwVh6ls1anO4yVVv__FxUzjJVW__8XFTLyMZj9iw2AgKUyW25A9lCoxi4bcen_YcRR_aSqbSsO0&_nc_ohc=c2f3MHWUoxQAX8mvTJb&_nc_ht=scontent-for1-1.xx&oh=00_AfDEP3niec5bt3ZUPyWF8NCl--Kfpn3Gw-_QOxEmt6wRQg&oe=65E68347);
+    background-size: cover;
+    width: 400px;
+    height: 500px;
+    border: 1px solid blue;
+    padding: 10px;
+    position:absolute
+
+}
+
+.caixa2{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    border: 1px solid blue;
+    padding: 10px 10px 10px;
+    position:absolute
+}
+
+.caixa3{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border: 1px solid blue;
+    padding: 10px;
+    transform: translate(25%, 25%);
+    position: absolute;
+}
