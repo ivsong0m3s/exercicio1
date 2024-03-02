@@ -1,16 +1,28 @@
-ol li{
-    border: 1px solid black;
-    border-radius: 5px;
-    margin: 10px;
-    padding: 10px;
-    
-}
-.first-child{
-    background-color: aqua;
-    text-decoration-color: bisque;
+table{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(190, 231, 233);
+    border: 5px solid blue;
+    border-radius: 15px;
+    padding: 10px 10px 10px;
+    position:absolute
+
 }
 
-.last-child{
-    background-color: orange;
-    text-decoration-color: aquamarine;
+
+tr th{
+    width: 2px;
+    height: 2px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 6px;
+    padding: 6px;
+    
+}
+td{
+    width: 4px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
 }
